@@ -1,0 +1,14 @@
+[ 2024-12-23 13:26:46,575 ] 25 root - INFO - mdoel fitting about to start
+[ 2024-12-23 13:26:46,589 ] 30 root - INFO - data ingestion has begun
+[ 2024-12-23 13:26:46,592 ] 34 root - INFO - data read as a data frame
+[ 2024-12-23 13:26:46,592 ] 40 root - INFO - train / test initiated
+[ 2024-12-23 13:26:46,592 ] 46 root - INFO - ingestion of the data is complete
+[ 2024-12-23 13:26:46,592 ] 58 root - INFO - data ingestion set
+[ 2024-12-23 13:26:46,592 ] 58 root - INFO - initiated data transformation
+[ 2024-12-23 13:26:46,625 ] 61 root - INFO - data tranformation set
+[ 2024-12-23 13:26:53,668 ] 75 root - INFO - my best parameters is/are {'min_samples_split': 5, 'min_samples_leaf': 4, 'max_features': None, 'max_depth': None, 'criterion': 'friedman_mse'}
+[ 2024-12-23 13:26:53,668 ] 85 root - INFO - results ready
+[ 2024-12-23 13:26:53,668 ] 86 root - INFO - Model prediction done with best model: lr
+[ 2024-12-23 13:26:53,668 ] 87 root - INFO - R^2 Score: 0.8686965586503619
+[ 2024-12-23 13:26:53,668 ] 89 root - INFO - model prediction done with best model
+[ 2024-12-23 13:26:53,668 ] 64 root - INFO - model training set

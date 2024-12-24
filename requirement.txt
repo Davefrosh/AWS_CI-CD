@@ -1,0 +1,9 @@
+pandas
+numpy
+seaborn
+matplotlib
+lazypredict
+streamlit
+dill
+flask
+#-e .
